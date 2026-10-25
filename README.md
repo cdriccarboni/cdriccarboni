@@ -1,22 +1,32 @@
 <div align="center">
 
-![Cédric Carboni — Creative Stage Lab](assets/header.svg)
+<img src="assets/header.svg" alt="Creative Stage Lab — Cédric Carboni" width="100%" />
 
-**Applications · audio · outils créatifs · expérimentations numériques**
+<br>
+
+**Projets publics · applications · audio · outils créatifs**
+
+<br>
 
 </div>
 
-### Projets publics
+## Projets sélectionnés
 
-| Projet | Description |
-| :--- | :--- |
-| **[Chut!](https://github.com/cdriccarboni/chut)** | Débruitage vocal local pour macOS, Windows et Linux. |
-| **[MISES!](https://github.com/cdriccarboni/mise-qr-case-finder)** | Application d'inventaire et de gestion de matériel par QR codes. |
-| **[No-de](https://github.com/cdriccarboni/no-de-vibe-designer-pwa)** | Outils de création multimédia et de dispositifs interactifs. |
-| **[SONARIS](https://github.com/cdriccarboni/SONARIS)** | Création et exploration sonore. |
-| **[Pedal2Patch](https://github.com/cdriccarboni/pedal2patch)** | Application audio et création de patches. |
-| **[Phablab Mobile Suite](https://github.com/cdriccarboni/phablab-mobile-suite)** | Utilitaires mobiles et expérimentations autour des capteurs. |
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/cdriccarboni/chut"><img src="assets/chut.svg" alt="Chut! — Débruitage vocal local" width="100%"></a><br><a href="https://cdriccarboni.github.io/chut/">Site et téléchargements</a> · <a href="https://github.com/cdriccarboni/chut">Code source</a></td>
+<td width="50%" valign="top"><a href="https://github.com/cdriccarboni/mise-qr-case-finder"><img src="assets/mises.svg" alt="MISES! — Inventaire et QR codes" width="100%"></a><br><a href="https://github.com/cdriccarboni/mise-qr-case-finder">Voir le projet</a></td>
+</tr>
+<tr>
+<td valign="top"><a href="https://github.com/cdriccarboni/no-de-vibe-designer-pwa"><img src="assets/node.svg" alt="No-de — Outils multimédia" width="100%"></a><br><a href="https://github.com/cdriccarboni/no-de-vibe-designer-pwa">Voir le projet</a></td>
+<td valign="top"><a href="https://github.com/cdriccarboni/SONARIS"><img src="assets/sonaris.svg" alt="SONARIS — Création sonore" width="100%"></a><br><a href="https://github.com/cdriccarboni/SONARIS">Voir le projet</a></td>
+</tr>
+<tr>
+<td valign="top"><a href="https://github.com/cdriccarboni/pedal2patch"><img src="assets/pedal.svg" alt="Pedal2Patch — Audio et patches" width="100%"></a><br><a href="https://github.com/cdriccarboni/pedal2patch">Voir le projet</a></td>
+<td valign="top"><a href="https://github.com/cdriccarboni/phablab-mobile-suite"><img src="assets/phablab.svg" alt="Phablab Mobile Suite — Utilitaires et capteurs" width="100%"></a><br><a href="https://github.com/cdriccarboni/phablab-mobile-suite">Voir le projet</a></td>
+</tr>
+</table>
 
 ---
 
-<sub>Quelques projets publics, du logiciel utilitaire aux outils pour la création. Cette page ne répertorie pas les dépôts privés.</sub>
+<sub>Une sélection de dépôts publics. Visuels typographiques conçus pour cette page : aucune photo générée et aucune information issue des dépôts privés.</sub>
